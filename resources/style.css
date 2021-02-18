@@ -1,0 +1,61 @@
+* {
+    font-family: "Josefin Sans";
+    box-sizing: border-box;
+    text-align: center;
+    list-style: none;
+}
+img {
+    max-width: 100%;
+}
+body {
+    background-color: #EDF2E9;
+}
+
+h1 {
+    color:#5D734C;
+    font-size: 3rem;
+    text-align: center;
+    padding: 1% 10%;
+}
+
+h2 {
+    color: #5D734C;
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+.logo {
+    max-width: 100%;
+}
+
+/* navigation */
+
+nav {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+.icon img{
+  max-width: 50%;  
+}
+
+/* drink of the week*/
+
+article img {
+    border-radius: 50%;
+    max-height: 80%;
+    max-width: 80%;
+}
+
+article {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+ul {
+    display: inline;
+}
